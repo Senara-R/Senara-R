@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm <b>Senara Jayawardena</b></h1> <h3 align="center">Intern QA Engineer | PM | UI/UX | Final Year CS Undergraduate 👩‍🎓</h3> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Intern+QA+Engineer;PM+%7C+UI%2FUX;Final+Year+CS+Undergraduate;Test.+Design.+Build.+Deliver." alt="Typing SVG" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Senara-R&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /> <img src="https://img.shields.io/github/followers/Senara-R?style=social" alt="followers" /> <img src="https://img.shields.io/github/stars/Senara-R?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="stars" /> </p>
 🚀 About Me
 
-I am an Intern QA Engineer and final-year Computer Science undergraduate (University of Bedfordshire @ SLIIT City University) with over two years of academic and hands-on project experience in software development and problem-solving.
+I am an Intern QA Engineer and  Computer Science graduate (University of Bedfordshire @ SLIIT City University) with over two years of academic and hands-on project experience in software development and problem-solving.
 
 My focus is on software quality, project management, and UI/UX design, backed by full-stack project work and familiarity with Git, Agile practices, and basic CI/CD concepts such as automated testing and deployment workflows.
 
